@@ -1,4 +1,4 @@
-# Gaggle.tech Boilerplate
+# Gaggle.tech | Version 0.0.1
 
 ## Features
 
